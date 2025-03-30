@@ -62,8 +62,4 @@ wordlist = "/path/to/your/custom_list.txt"
 
 ---
 
-## 📁 Project Structure
 
-what-the-hash/
-├── whatthehash.py      # Main script
-├── README.md           # This file
