@@ -34,11 +34,4 @@ It’s fast, user-friendly, beginner-friendly, and perfect for **entry-level cyb
   ```bash
   pip install hashid
 
-hashcat
-
-bash
-Copy
-Edit
-sudo apt install hashcat
-Wordlist (default: /usr/share/wordlists/rockyou.txt)
-
+Make sure you have hashcat installed 😉
