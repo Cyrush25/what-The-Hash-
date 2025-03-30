@@ -44,5 +44,6 @@ It’s fast, user-friendly, beginner-friendly, and perfect for **entry-level cyb
 
 ```bash
   python3 whatthehash.py
-  Enter the hash:(enter your hash)
 
+```bash
+   Enter your hash
