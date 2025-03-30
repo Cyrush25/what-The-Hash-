@@ -45,5 +45,8 @@ It’s fast, user-friendly, beginner-friendly, and perfect for **entry-level cyb
 ```bash
   python3 whatthehash.py
 
-```bash
-   Enter your hash
+---
+
+
+## 🔧 Custom Wordlist Support
+By default, the script uses:
