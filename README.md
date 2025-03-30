@@ -34,4 +34,15 @@ It’s fast, user-friendly, beginner-friendly, and perfect for **entry-level cyb
   ```bash
   pip install hashid
 
-Make sure you have hashcat installed 😉
+- hashcat
+  ```bash
+  sudo apt install hashcat
+
+- wordlist (by default - /usr/share/wordlists/rockyou.txt/usr/share/wordlists/rockyou.txt) (make sure its there)
+
+## 📦 Usage
+
+```bash
+  python3 whatthehash.py
+  Enter the hash:(enter your hash)
+
